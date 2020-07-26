@@ -3,3 +3,8 @@ title: Wenqiang's Blog
 slogan: Be Better
 baseurl: ""
 theme: jekyll-theme-cayman
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
