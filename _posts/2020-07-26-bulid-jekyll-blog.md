@@ -50,7 +50,6 @@ tags: [github, jekyll, blog]
 <!-- Include to Default Layout, Add to default html Body Tag -->
 
 <!-- Header(_include/header.html) Include -->
-<!-- \{% include {{ site.baseurl }}header.html %\} -->
 ```
 
 3. Make Pages use Defalut Layout
