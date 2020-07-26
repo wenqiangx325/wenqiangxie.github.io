@@ -49,3 +49,14 @@ title: Build Jekyll Blog
 <!-- Header(_include/header.html) Include -->
 {% include {{ site.baseurl }}header.html %}
 ```
+
+3. Make Pages use Defalut Layout
+```HTML
+<!-- Add below comment in the page which want to use layout  -->
+<!-- layout name: <default>  -->
+<!-- page title: <Tags>  -->
+---
+layout: default
+title: Tags
+---
+```
