@@ -14,6 +14,10 @@
   <!-- Header(_include/header.html) Include -->
   {% include {{ site.baseurl }}header.html %}
 
+  <!-- content is a special variable,  -->
+  <!-- the value is the rendered content of the post or page being wrapped. -->
+  {{ content }}
+
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
   <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>

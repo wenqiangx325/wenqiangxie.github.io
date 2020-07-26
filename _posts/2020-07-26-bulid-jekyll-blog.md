@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Build Jekyll Blog
+date:  2020-07-27 12:53:00
+categories: Jekyll
+tags: [github, jekyll, blog]
 ---
 
 # Build Jekyll Blog
