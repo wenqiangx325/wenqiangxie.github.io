@@ -63,4 +63,14 @@ title: Tags
 ---
 ```
 
-#### Add Github Markdown Style Support
+#### Markdown Page
+
+##### Add Github Markdown Style Support
+
+##### Add Markdown Toc Support
+
+1. Add Toc.js in default layout html
+```HTML
+<!-- Toc.js -->
+<script src="https://raw.githubusercontent.com/jgallen23/toc/greenkeeper/update-all/dist/toc.min.js"></script>
+```
